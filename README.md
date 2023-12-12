@@ -1,4 +1,4 @@
-Write a program implementing a bank ATM interface. Upon logging in with a 
+Java console program for implementing a bank ATM interface. Upon logging in with a 
 username and pin, a user should be able to make deposits, withdrawals, and 
 transfers between accounts. The user should also be able to list the 
 transactions for each account, so this program can be somewhat of a blend 
