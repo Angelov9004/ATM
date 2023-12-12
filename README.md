@@ -83,8 +83,8 @@ Enter the number (1-2) of the account
 whose transactions you want to see: 2  
   
 Transaction history for account 9186453789  
-Fri Jul 05 12:15:09 EDT 2013, $(7.25) : money for candy  
-Fri Jul 05 12:14:52 EDT 2013, $10.00 : Transfer from account 6087306216  
+Fri Dec 08 12:15:09 EDT 2023, $(7.25) : money for candy  
+Fri Jul 08 12:14:52 EDT 2023, $10.00 : Transfer from account 6087306216  
   
   
   
@@ -104,8 +104,8 @@ Enter the number (1-2) of the account
 whose transactions you want to see: 1  
   
 Transaction history for account 6087306216  
-Fri Jul 05 12:14:52 EDT 2013, $(10.00) : Transfer to account 9186453789  
-Fri Jul 05 12:14:39 EDT 2013, $20.00 : birthday money from grandma  
+Fri Dec 08 12:15:09 EDT 2023, $(10.00) : Transfer to account 9186453789  
+Fri Dec 08 12:15:09 EDT 2023, $20.00 : birthday money from family
   
   
   
